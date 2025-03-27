@@ -1,3 +1,7 @@
+Jacob Bouyer
+jbouyer@csu.fullerton.edu
+887073328
+
 RESTful API with Flask: Authentication, CRUD, and Error Handling
 Overview
 This project implements a RESTful API using Flask. The API features JWT authentication, CRUD operations with a MySQL database, and file handling. It includes public and admin routes with authentication and error handling.
